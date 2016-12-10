@@ -154,8 +154,12 @@ Mostrar cómo podemos convertir la NanoPlayBoard en un controlador MIDI con la a
 
 * http://firmata.org
 * https://github.com/josejuansanchez/NanoPlayBoard-Firmata
-* Mostrar todos los clientes que existen para usar con Firmata: Johnny-Five, Python, ScractchX, etc.
+* Mostrar todos los clientes que existen para usar con Firmata: [Johnny-Five](https://github.com/josejuansanchez/NanoPlayBoard-Johnny-Five), [Python](https://github.com/josejuansanchez/NanoPlayBoard-Python-Library), [ScratchX](https://github.com/josejuansanchez/scratch-arduino-extension), etc.
 
 ### Node-Red
 
 * https://github.com/josejuansanchez/NanoPlayBoard-Node-Red
+
+### Book
+
+* https://www.gitbook.com/book/josejuansanchez/nanoplayboard/details
