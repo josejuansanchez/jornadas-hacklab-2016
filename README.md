@@ -45,4 +45,14 @@ void playTone(unsigned int frequency, unsigned long duration);
 void stopTone();
 ```
 
+### RGB LED
+
+```c++
+void setColor(uint8_t r, uint8_t g, uint8_t b);
+void setColor(String color);
+void setIntensity(uint8_t intensity);
+void on();
+void off();
+void toggle();
+```
 
