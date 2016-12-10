@@ -21,3 +21,8 @@
 * `read` (Bluetooth). 
   * Conectar por **Bluetooth** con la **aplicación Android** y mostrar los datos en el *Terminal*.
 * `scaleTo`
+
+### Cómo enviar datos por el `Serial` a Processing
+
+* Mostrar algunos ejemplos sencillos de cómo podemos usar los valores leídos con los sensores de la placa y manipular algún objeto en Processing con ellos.
+* [Referencia](https://github.com/josejuansanchez/NanoPlayBoard-Processing).
