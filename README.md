@@ -56,3 +56,14 @@ void off();
 void toggle();
 ```
 
+### LED Matrix
+
+```c++
+void clear();
+void print(char symbol);
+void print(const byte pattern[5]);
+void print(char message[]);
+void print(String message);
+void setScrollSpeed(uint8_t speed);
+void printInLandscape(uint8_t number);
+```
