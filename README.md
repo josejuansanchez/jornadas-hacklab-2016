@@ -67,3 +67,8 @@ void print(String message);
 void setScrollSpeed(uint8_t speed);
 void printInLandscape(uint8_t number);
 ```
+
+### Aplicación Android
+
+* Cargar el sketch para comunicar la aplicación Android con la placa por Bluetooth y enseñar todas las funcionalidades que tiene para los elementos que se han mostrado previamente.
+
