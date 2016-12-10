@@ -1,4 +1,18 @@
-# jornadas-hacklab-2016
+# III Jornadas HackLab Almería 2016
+
+Recursos usados en la charla **«Experimenta y aprende programando con [NanoPlayBoard][1]»**.  
+[III Jornadas HackLab Almería 2016][2]. 10 y 11 de Diciembre en El Ejido (Almería).
+
+## Datos de la charla
+
+* **Título**: Experimenta y aprende programando con [NanoPlayBoard][1].
+* **Tipo**: Charla + Taller (Si disponemos de placas suficientes).
+* **Descripción larga**: Haremos un recorrido por todos los recursos que hay disponibles para programar la placa [NanoPlayBoard][1]. Veremos algunos ejemplos de uso con diferentes lenguajes de programación como `C++`, `JavaScript`, `Python` o `Java`. También veremos cómo interaccionar con la placa desde un dispositivo `Android` o un navegador web, y por qué no, también haremos algún que otro `NanoPlayBot`.
+* **Material necesario**: Proyector, Internet.
+* **Fecha posible**: Sábado por la tarde.
+* **Duración**: 45 min.
+* **Nivel**: Introducción.
+* **Conocimientos previos**: Conocimientos básicos de programación.
 
 ## NanoPlayBoard API
 
@@ -163,3 +177,6 @@ Mostrar cómo podemos convertir la NanoPlayBoard en un controlador MIDI con la a
 ### Book
 
 * https://www.gitbook.com/book/josejuansanchez/nanoplayboard/details
+
+[1]: http://nanoplayboard.org
+[2]: http://hacklabalmeria.net/2016/12/10/iii-jornadas-hacklab.html
