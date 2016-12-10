@@ -146,4 +146,16 @@ float readHumidity(bool force=false);
 bool isPressed();
 ```
 
+### MIDI
 
+Mostrar cómo podemos convertir la NanoPlayBoard en un controlador MIDI con la ayuda de *hairless-midiserial* y *Garage Band*.
+
+### Firmata
+
+* http://firmata.org
+* https://github.com/josejuansanchez/NanoPlayBoard-Firmata
+* Mostrar todos los clientes que existen para usar con Firmata: Johnny-Five, Python, ScractchX, etc.
+
+### Node-Red
+
+* https://github.com/josejuansanchez/NanoPlayBoard-Node-Red
