@@ -99,4 +99,51 @@ void setSpeed(uint8_t speed);
 
 * [How to build a basic obstacle avoiding robot using NanoPlayBoard](http://nanoplayboard.org/articles/how-to-build-a-basic-obstacle-avoiding-nanoplaybot.html).
 
+### Rotary Encoder
+
+```c++
+long getPosition();
+```
+
+### Ultrasonic Sensor
+
+```c++
+unsigned long pingCm(unsigned int max_cm_distance = 0);
+```
+
+* Reference: [NewPing Library](https://bitbucket.org/teckel12/arduino-new-ping/downloads).
+
+### Accelerometer
+
+```c++
+float getX();
+float getY();
+float getZ();
+bool isFront();
+bool isBack();
+bool isUp();
+bool isDown();
+bool isLeft();
+bool isRight();
+bool isXTapped();
+bool isYTapped();
+bool isZTapped();
+bool isShaked();
+```
+
+### DHT
+
+```c++
+float readTemperature(bool S=false, bool force=false);
+float readHumidity(bool force=false);
+```
+
+* Reference: [DHT Library](https://github.com/adafruit/DHT-sensor-library).
+
+### Button
+
+```c++
+bool isPressed();
+```
+
 
